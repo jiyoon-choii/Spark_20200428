@@ -1,0 +1,12 @@
+- 아파치스파크 설치 -> 환경변수 편집(시스템 변수에 SPARK_HOME 이란 이름으로 추가 / PATH에도 경로 추가(bin,sbin 모두) 
+- 하둡 설치 (이전에 o)
+- java (1.8.0_211 / jdk 설치) - 환경 확인하기 (이전이랑 같음)  
+- Visual C++ 다운 -- 'vc 런타임' 검색 
+- winutils.exe 설치 (이전에o)(하둡이랑 버전 같은 걸로) -- http://github.com/steveloughran/winutils 
+- pyspark 설치 -- cmd 창에 'conda install -c conda-forge pyspark' 
+* 경로에 웬만하면 빈 칸이나 한글 안 들어가게 
+
+- 'cmd : conda install -c conda-forge findspark 
+
+
+-> cmd 창에 'where yarn' 
