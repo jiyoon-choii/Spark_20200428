@@ -6,7 +6,7 @@
 - pyspark 설치 -- cmd 창에 'conda install -c conda-forge pyspark' 
 * 경로에 웬만하면 빈 칸이나 한글 안 들어가게 
 
-- 'cmd : conda install -c conda-forge findspark 
+- cmd : conda install -c conda-forge findspark 
 
 
 -> cmd 창에 'where yarn' 
